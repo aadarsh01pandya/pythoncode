@@ -1,0 +1,6 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+plt.xlabel('hello')
+plt.ylabel('hello')
+plt.show()
